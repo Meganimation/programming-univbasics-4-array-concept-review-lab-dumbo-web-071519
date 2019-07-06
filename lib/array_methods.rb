@@ -5,7 +5,7 @@ if array[num] == value_to_find
  return num 
  
  end
-
+end
 
 end
 
