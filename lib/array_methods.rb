@@ -10,8 +10,8 @@ puts nil
 end
 
 def find_max_value(array)
- array.length do |ele|
-   if ele >= 5
+ array.length do |max|
+   if max > 
      return ele 
    end
  
