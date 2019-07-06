@@ -12,7 +12,7 @@ end
 def find_max_value(array)
   max = 0
   
- array.length do |max|
+ array.length.times do |max|
    if max > 
      return ele 
    end
