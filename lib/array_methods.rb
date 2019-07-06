@@ -10,7 +10,12 @@ puts nil
 end
 
 def find_max_value(array)
-  # Add your solution here
+ array do |ele|
+   if ele >= 5
+     return ele 
+   end
+ end
+ 
 end
 
 def find_min_value(array)
